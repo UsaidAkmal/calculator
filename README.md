@@ -2,7 +2,7 @@
 simple calculator with py
 with float tipedata, u can using this calculator for all number of float
 
-                    __
+<pre>                    __
  ___ ____________ _/ /
 / _ `/ __/ __/ _ `/ / 
 \_,_/_/  \__/\_,_/_/  
@@ -23,3 +23,6 @@ PILIH SALAH SATU OPERATOR!: +
 [+] Masukan angka kedua(bebas): 2
 
 hasilnya adalah 3.0
+
+
+<pre>
